@@ -1,0 +1,6 @@
+checkpoints/
+data/
+code/
+*.pyc
+trained_models/
+wandb/
